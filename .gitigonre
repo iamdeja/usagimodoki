@@ -1,0 +1,10 @@
+# IDEs and editors
+.idea/
+.vs/
+.vscode/
+
+# User settings
+*.DotSettings.user
+
+bin/
+obj/
